@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f3f1ff;
+}
+.ml-auto{
+    margin-left:auto;
+}
+.navbar img{
+    width:40px;
+}
+.player img{
+    width:56px;
+}
+.pl-3{
+    padding-left: 10px;
+}
+main{
+    background-color: #fff;
+    max-width:870px;
+}
+.container-fluid{
+    width:870px;
+}
+.row span{
+    color: gray;
+}
+.pt-5{
+    padding:10px;
+}
